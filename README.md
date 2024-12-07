@@ -1,2 +1,3 @@
 # Small-Object-Detection-and-Tracking
-Yolo and Co-tracker
+This is basically the final project for CMPT 742 
+The main algorithms are YOLO and Co-Tracker
