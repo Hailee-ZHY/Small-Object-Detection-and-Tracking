@@ -1,6 +1,6 @@
-train: /Users/hailee_zhang/Small-Object-Detection-and-Tracking/train/images
-val: /Users/hailee_zhang/Small-Object-Detection-and-Tracking/valid/images
-test: /Users/hailee_zhang/Small-Object-Detection-and-Tracking/test/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
 nc: 1
 names: ['tennis ball']
