@@ -1,0 +1,13 @@
+train: /Users/hailee_zhang/Small-Object-Detection-and-Tracking/train/images
+val: /Users/hailee_zhang/Small-Object-Detection-and-Tracking/valid/images
+test: /Users/hailee_zhang/Small-Object-Detection-and-Tracking/test/images
+
+nc: 1
+names: ['tennis ball']
+
+roboflow:
+  workspace: finalproj-bv3w5
+  project: tennis-ball-detection-krz98
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/finalproj-bv3w5/tennis-ball-detection-krz98/dataset/1
